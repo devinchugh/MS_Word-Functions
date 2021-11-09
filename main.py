@@ -549,9 +549,6 @@ print('\n')
 
 print(' THE END    ')
 
-print('SUBMITTED BY:')
-print('DEVIN')
-print('2020UME0206')
 
             
     
