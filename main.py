@@ -1,8 +1,3 @@
-#       PROJECT
-
-# INDEX
-
-
 # CODES FOR VARIOUS PROGRAMS FOR STRINGS
 
 print('Enter the string on which you wish to execute all the programs:')
